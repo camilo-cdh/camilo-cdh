@@ -63,6 +63,14 @@ Disfruto aprender constantemente y enfrentar nuevos desafíos técnicos.
 
 ---
 
+## 🧩 Proyectos
+
+| 🗂️ Proyecto (link) | 💬 Descripción | 🛠️ Tecnologías |
+|--------------|----------------|----------------|
+| ⚙️ [**Ecommerce API**](https://github.com/camilo-cdh/Ecommerce-API-Flask) | API REST desarrollada con Flask y SQLAlchemy| [![Python][Python]][Python-url] [![Flask][Flask]][Flask-url] [![SQLAlchemy][SQLAlchemy]][SQLAlchemy-url] [![MySQL][MySQL]][MySQL-url]|
+
+---
+
 ## 🌱 Actualmente aprendiendo
 - Arquitectura y buenas prácticas para APIs RESTful.  
 - Diseño de pipelines ETL y orquestación de procesos.  
